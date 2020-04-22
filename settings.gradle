@@ -1,0 +1,2 @@
+rootProject.name='ReadAssetFromJNI'
+include ':app'
